@@ -1,7 +1,7 @@
 # sprouts-game
 4th semester group project of the game 'Sprouts' in Python. 
 
-<img src="sprouts.gif" alt="introgif" width="400"/>
+<img src="sprouts.gif" alt="introgif" width="500"/>
 
 # Core funtionality
  - Drawing lines using bezier curvers
